@@ -30,7 +30,7 @@
 		<button
 			type="button"
 			onclick={onNewTask}
-			class="label-lg bg-brand text-brand-contrast flex w-full items-center justify-center gap-2 rounded-lg px-4 py-2 transition-opacity hover:opacity-90 sm:w-auto sm:justify-start"
+			class="label-lg bg-brand text-brand-contrast glow-brand flex w-full items-center justify-center gap-2 rounded-lg px-4 py-2 transition-opacity hover:opacity-90 sm:w-auto sm:justify-start"
 		>
 			<Plus class="size-4" /> Nova tarefa
 		</button>

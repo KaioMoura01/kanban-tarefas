@@ -83,7 +83,7 @@
 
 	<button
 		type="submit"
-		class="label-lg bg-brand text-brand-contrast flex items-center justify-center gap-2 rounded-lg px-4 py-2 transition-opacity hover:opacity-90"
+		class="label-lg bg-brand text-brand-contrast glow-brand flex items-center justify-center gap-2 rounded-lg px-4 py-2 transition-opacity hover:opacity-90"
 	>
 		<Plus class="size-4" /> Adicionar tarefa
 	</button>
